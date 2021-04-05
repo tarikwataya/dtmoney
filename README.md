@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+<h1 align="center">
+  DtMoney
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Developer
 
-## Available Scripts
+| [<img src="https://avatars.githubusercontent.com/u/17626241?s=460&u=0138711ab23cca398590c107bf0eaa823f44728a&v=4" width="75px;"/>](https://github.com/tarikwataya) |
+| :------------------------------------------------------------------------------------------------------------------------: |
 
-In the project directory, you can run:
+| [Tárik Wataya](https://github.com/tarikwataya)
 
-### `yarn start`
+## 💻 About the Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Project developed during BootCamp - Ignite by Rocketseat
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+This project aims to create an application using most of the common features on a daily basis.
 
-### `yarn test`
+In this application we make and use: Styled Components, Styles and global sources, Componentization, API consumption, MirageJS, Modal and Forms, Creation of contexts and hooks.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+## 🚀 How to Run Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Required
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+It is necessary to have installed the main tools:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **[Git](https://git-scm.com)**
+- **[Yarn](https://yarnpkg.com/getting-started/install)**
 
-### `yarn eject`
+### 🧭 Running the project
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clone this repository
+$ git clone https://github.com/tarikwataya/dtmoney
+# Access the project folder
+$ cd dtmoney
+# Install the dependencies
+$ yarn
+# Running App
+$ yarn start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
+### 🎥️ Example
+  ![dt](https://user-images.githubusercontent.com/17626241/113638841-2bb79880-964e-11eb-9cac-9e592abc0afc.PNG)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
